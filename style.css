@@ -10,8 +10,7 @@ section {
     justify-content: center;
     align-items: center;
     min-height: 100Vh;
-    display: flex;
-    animation: changebg 5s linear infinite;   
+    display: flex; 
 }
 @keyframes changebg
 {
